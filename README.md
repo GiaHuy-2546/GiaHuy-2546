@@ -50,16 +50,8 @@ My current interests include:
 ## 📊 GitHub Overview
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GiaHuy-2546&show_icons=true&hide_border=true&rank_icon=github&theme=dark&bg_color=00000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=GiaHuy-2546&show_icons=true&hide_border=true&rank_icon=github&theme=default&bg_color=00000000">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=GiaHuy-2546&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaHuy-2546&layout=compact&hide_border=true&theme=dark&bg_color=00000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaHuy-2546&layout=compact&hide_border=true&theme=default&bg_color=00000000">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaHuy-2546&layout=compact&hide_border=true" alt="Most used languages">
-  </picture>
+  <img src="profile-summary-card-output/default/0-profile-details.svg" alt="Profile details">
+  <img src="profile-summary-card-output/default/2-most-commit-language.svg" alt="Most commit language">
 </p>
 
 ## 📫 Connect
